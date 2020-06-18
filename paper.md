@@ -31,4 +31,6 @@ I had some results and I want to publish them on whatever
 Nothing to say here now. 
 
 # Figures
-Figures go in the own section in the draft paper 
+Figures go in the own section in the draft paper
+
+## Added some more figures  
