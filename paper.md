@@ -21,3 +21,6 @@ measurements in the literature can be applied at a regional scale.
 
 We simulate the evoulution of particle sizes as they are carried 
 away from the source region.
+
+# Methology 
+Something that we do
