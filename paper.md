@@ -2,9 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-
-Marek Dynowski
-John Smith 
+John Smith, University of Tuebingen
+Marek Dynowski, Cancer Research UK
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
