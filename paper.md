@@ -32,6 +32,7 @@ Nothing to say here now.
 # Figures
 Figures go in the own section in the draft paper
 
+<<<<<<< HEAD
 ## Added some more figures 
 
 # Conclusions 
@@ -40,3 +41,6 @@ FUNDING!
 
 # Acknowledgements
 Hello Marek! I like your file.
+=======
+## Added some more figures  
+>>>>>>> parent of 293731f... add conclusions section
