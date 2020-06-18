@@ -26,5 +26,9 @@ away from the source region.
 Something that we do
 
 # Results 
+I had some results and I want to publish them on whatever
+## Result no 1 
+Nothing to say here now. 
 
-I had some results and I want to publish them on whatever 
+# Figures
+Figures go in the own section in the draft paper 
