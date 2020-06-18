@@ -1,9 +1,10 @@
 # Title
-Aircraft of biomass burning aerosols over West Africa
+Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
 
-Marek Dynowski 
+Marek Dynowski
+John Smith 
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -16,3 +17,7 @@ continental-scale measurements have not previously been made.
 A large uncertainty in modelling BBOA is the extent to which 
 measurements in the literature can be applied at a regional scale.
 
+# Simulations
+
+We simulate the evoulution of particle sizes as they are carried 
+away from the source region.
