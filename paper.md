@@ -33,4 +33,8 @@ Nothing to say here now.
 # Figures
 Figures go in the own section in the draft paper
 
-## Added some more figures  
+## Added some more figures 
+
+# Conclusions 
+We have made fantastic insight into the bla, need more 
+FUNDING! 
